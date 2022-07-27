@@ -1,1 +1,1 @@
-# Vite-ts-template
+# vite-ts-template
