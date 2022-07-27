@@ -1,1 +1,1 @@
-# WIP
+# Vite-ts-template
