@@ -37,6 +37,7 @@
   ],
   "scripts": {
     "build": "unbuild",
+    "play": "vite packages/playground",
     "dev": "unbuild --stub",
     "lint": "eslint . --ext .ts",
     "lint:fix": "eslint . --ext .ts --fix",
